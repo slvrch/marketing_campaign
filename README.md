@@ -24,7 +24,7 @@
 
 Insight:
 - Campaign performance remained stable from July 2024 to June 2025, indicating consistent marketing execution throughout the reporting period
-- Revenue and Acquisition Cost followed similar trends, indicating that marketing spending remained aligned with business performance 
+- Revenue and acquisition cost followed similar trends, suggesting that marketing investment remained proportional to campaign performance without unusual spending fluctuations
 - The decline observed in June 2025 should not be interpreted as a deterioration in campaign performance because the dataset contains only partial-month records (through 24 June 2025)
 
 <img width="789" height="386" alt="image" src="https://github.com/user-attachments/assets/be3d2273-410a-48ca-b73c-86fb07008530" />
