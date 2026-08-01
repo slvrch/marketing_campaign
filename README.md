@@ -12,7 +12,7 @@
 - Where are the bottlenecks in the customer journey?
 - Which campaign type performs best across different campaign durations?
 - Which campaign types increase or reduce ROI across customer segments?
-- 
+- Which multi-channel combination delivers the highest ROI?
 
 ## Data Understanding
 
@@ -50,4 +50,10 @@ Insight:
 - College Students exhibited the weakest overall ROI improvement, with only marginal positive contributions from **Email** and **Paid Ads**, while **Influencer** campaigns generated the largest decline in ROI
 
 
+<img width="768" height="405" alt="image" src="https://github.com/user-attachments/assets/14f54e7f-bac5-4fd5-b32f-d0fc035d18f1" />
 
+
+Insight:
+- The **Email-WhatsApp-Facebook** achieved the highest average ROI among the Top 10 channel combinations
+- Most of the Top 10 highest-performing combinations integrated **three marketing channels**, suggesting that coordinated multi-channel execution was common among the strongest-performing campaigns
+- **Email** appeared in **6 of the Top 10** channel combinations, indicating its frequent presence in high-performing marketing strategies
