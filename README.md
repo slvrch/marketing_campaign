@@ -11,7 +11,7 @@
 - How did campaign performance change over time?
 - Where are the bottlenecks in the customer journey?
 - Which campaign type performs best across different campaign durations?
-- Which campaign types contribute positively or negatively to ROI across customer segments?
+- Which campaign types increase or reduce ROI across customer segments?
 - 
 
 ## Data Understanding
@@ -29,9 +29,6 @@ Insight:
 <img width="789" height="386" alt="image" src="https://github.com/user-attachments/assets/be3d2273-410a-48ca-b73c-86fb07008530" />
 
 Insight:
-
-
-Insight:
 - The most significant customer drop-off occurred between **Impressions and Clicks**, with **91.49%** of users failing to engage
 - Once users entered the lead stage, the funnel became more efficient, achieving a **55.02%** **Lead-to-Conversion Rate**
 - Overall, only **1.9%** of users completed the entire customer journey
@@ -43,4 +40,14 @@ Insight:
 - Medium-duration campaigns generated the highest ROI for 3 of 5 campaign types (SEO, Social Media, and Influencer)
 - Paid Ads achieved the strongest ROI in **long-duration campaigns**
 - Email campaigns delivered their highest ROI in **short-duration campaigns**
+
+<img width="790" height="418" alt="image" src="https://github.com/user-attachments/assets/fad141c5-a41c-4127-aaef-361da6761c8c" />
+
+Insight:
+- Working Women responded most positively to **Social Media** campaigns, while **Email** campaigns generated the largest negative ROI contribution
+- Premium Shoppers achieved the strongest ROI improvement from **Email** campaigns, whereas **Social Media** generated the largest negative ROI contribution
+- Tier 2 City Customers benefited most from **Influencer** campaigns, while **Paid Ads** showed the largest negative ROI contribution
+- College Students exhibited the weakest overall ROI improvement, with only marginal positive contributions from **Email** and **Paid Ads**, while **Influencer** campaigns generated the largest decline in ROI
+
+
 
