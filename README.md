@@ -29,7 +29,7 @@ To support data-driven marketing decisions, this project develops an interactive
 
 ### Dataset Overview
 
-- **Dataset:** Synthetic Digital Marketing Campaign Dataset
+- Dataset: Synthetic Digital Marketing Campaign Dataset
 - Period: July 2024 - 24 June 2025
 - Business Domain: Marketing Analytics
 - Total Records: 55.555 campaign records
