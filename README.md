@@ -1,4 +1,4 @@
-# marketing_campaign
+# Marketing Campaign Analytics
 
 ## Background Business
 
@@ -154,5 +154,15 @@ Although the company achieved strong overall marketing performance, the analysis
 
 
 ## Tools
-- Excel
-- Power BI 
+
+Microsoft Excel
+- Data cleaning and validation
+- Exploratory Data Analysis (EDA)
+- Descriptive statistics
+- Feature Engineering
+   
+Power BI 
+- Data modeling
+- DAX measure and calculated columns
+- Interactive dashboard development
+- Business performance visualization
