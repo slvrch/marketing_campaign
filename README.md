@@ -150,6 +150,7 @@ Although the company achieved strong overall marketing performance, the analysis
 
 ## Preview Dashboard
 
+<img width="1275" height="1650" alt="marketing campaign dashboard" src="https://github.com/user-attachments/assets/f1660814-c4e3-4ffe-bde2-c54e24e327ff" />
 
 
 ## Tools
