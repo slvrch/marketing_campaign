@@ -2,23 +2,28 @@
 
 ## Background Business
 
-Marketing teams often measure campaign success using isolated metrics such as impressions, clicks, or conversions. However, these metrics alone do not explain whether marketing investment generated meaningful business value.
+A retail company invests heavily in digital marketing campaigns across multiple marketing channels, campaign types, customer segments, and campaign duration to drive customer acquisition and sales growth.
 
-As campaign become more complex such as combining multiple marketing channels, targeting different customer segments, and running for different durations. After that, it becomes increasingly difficult to identify which strategies consistently improve revenue and ROI.
+During the latest marketing period, the company generated 29T in total revenue with an average ROI of 246.70, demonstrating that its marketing investments delivered measurable business value.
 
-This project analyzes campaign performance using interactive dashboards to support data-driven marketing optimization.
+However, these high-level KPIs only indicate what the business achieved—not why certain campaigns performed better than others, where customers dropped off throughout the marketing funnel, or which marketing strategies consistently generated stronger business outcomes.
+
+
+## Business Problem
+
+Although the company has achieved strong overall marketing performance, management lacks visibility into the key drivers behind campaign success. As marketing campaigns become increasingly complex, relying solely on aggregate KPIs makes it difficult to identify which strategies should be prioritized to maximize marketing ROI.
+
+## Business Questions
+- How did campaign revenue and acquisition cost change over time?
+- Where are the bottlenecks in the customer journey?
+- Which campaign types perform best across different campaign durations?
+- Which campaign types increase or reduce ROI across customer segments?
+- Which multi-channel combinations deliver the highest ROI?
+- Does higher customer engagement lead to better campaign performance?
 
 ## Objective of Analysis
 
-
-
-## Business Questions
-- How did campaign performance change over time?
-- Where are the bottlenecks in the customer journey?
-- Which campaign type performs best across different campaign durations?
-- Which campaign types increase or reduce ROI across customer segments?
-- Which multi-channel combination delivers the highest ROI?
-- Does higher customer engagement lead to better campaign performance?
+To support data-driven marketing decisions, this project develops an interactive dashboard that evaluates campaign performance, identifies optimization opportunities across customer journey, campaign strategies, customer segments, and marketing channels, and provides actionable insights to improve marketing effectiveness.
 
 ## Data Understanding
 
@@ -79,6 +84,7 @@ Insight:
 
 
 ## Conclusion
+
 
 
 
