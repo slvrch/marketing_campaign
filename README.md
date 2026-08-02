@@ -2,9 +2,14 @@
 
 ## Background Business
 
+Marketing teams often measure campaign success using isolated metrics such as impressions, clicks, or conversions. However, these metrics alone do not explain whether marketing investment generated meaningful business value.
 
+As campaign become more complex such as combining multiple marketing channels, targeting different customer segments, and running for different durations. After that, it becomes increasingly difficult to identify which strategies consistently improve revenue and ROI.
+
+This project analyzes campaign performance using interactive dashboards to support data-driven marketing optimization.
 
 ## Objective of Analysis
+
 
 
 ## Business Questions
@@ -16,6 +21,7 @@
 - Does higher customer engagement lead to better campaign performance?
 
 ## Data Understanding
+
 
 
 ## Analytics
