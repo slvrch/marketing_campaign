@@ -63,6 +63,18 @@ To support data-driven marketing decisions, this project develops an interactive
 | Engagement Level        | Categorize customer engagement        |
 | Funnel Table            | Transform funnel metrics into stage-level structure          |
 
+### Mapping Data to Business Questions
+
+| Business Question | Main Variables                                       |
+| ----------------- | ---------------------------------------------------- |
+| Q1                | Revenue, Acquisition Cost, Date                      |
+| Q2                | Impressions, Clicks, Leads, Conversions              |
+| Q3                | Campaign Type, Campaign Duration Group, ROI          |
+| Q4                | Customer Segment, Campaign Type, ROI                 |
+| Q5                | Channel Combination, ROI                             |
+| Q6                | Engagement Level, CTR, Revenue, ROI, Conversion Rate |
+
+
 ### Data Limitations
 
 - The dataset is synthetic and designed for analytical practice rather than representing a real company's marketing performance
