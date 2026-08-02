@@ -137,12 +137,15 @@ Insight:
 
 ## Conclusion
 
-
+Although the company achieved strong overall marketing performance, the analysis demonstrates that campaign success depends on far more than overall revenue and ROI. Customer journey efficiency, campaign duration, customer segmentation, multi-channel marketing strategies, and customer engagement all played important roles in determining campaign effectiveness. These findings suggest that marketing performance can be achieved through strategic campaign optimization rather than increased marketing expenditure alone
 
 
 ## Recommendation
 
-- 
+- Improve ad creatives, audience targeting, and call-to-action strategies to reduce early-stage customer drop-off and increase customer engagement, as higher engagement was consistently associated with stronger campaign performance
+- Develop segment-specific marketing strategies by aligning campaign types and campaign durations with the characteristics of each customer segment, rather than applying a one-size-fits-all approach
+- Prioritize high-performing multi-channel combinations identified in the analysis and validate their effectiveness across different campaign objectives and customer segments through controlled campaign experiments before large-scale implementation
+- Establish a continuous marketing performance monitoring process using key KPIs-Revenue, Acquisition Cost, ROI, CTR, and Conversion Rate-to evaluate campaign effectiveness, detect performance deviations, and measure the impact of future optimizations initiatives
 
 
 ## Preview Dashboard
