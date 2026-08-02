@@ -4,7 +4,7 @@
 
 A retail company invests heavily in digital marketing campaigns across multiple marketing channels, campaign types, customer segments, and campaign duration to drive customer acquisition and sales growth.
 
-During the latest marketing period, the company generated 29T in total revenue with an average ROI of 246.70, demonstrating that its marketing investments delivered measurable business value.
+During the latest marketing period, the company generated **29T in total revenue** with an **average ROI of 246.70**, demonstrating that its marketing investments delivered measurable business value.
 
 However, these high-level KPIs only indicate what the business achieved—not why certain campaigns performed better than others, where customers dropped off throughout the marketing funnel, or which marketing strategies consistently generated stronger business outcomes.
 
@@ -27,7 +27,47 @@ To support data-driven marketing decisions, this project develops an interactive
 
 ## Data Understanding
 
+### Dataset Overview
 
+- **Dataset:** Synthetic Digital Marketing Campaign Dataset
+- Period: July 2024 - 24 June 2025
+- Business Domain: Marketing Analytics
+- Total Records: 55.555 campaign records
+- Granularity: Each row represents the performance of a single marketing campaign, including campaign characteristics, target audience, marketing channels, customer engagement, and business performance metrics.
+
+### Data Categories
+
+| Category             | Variables                                     | Business Purpose                     |
+| -------------------- | --------------------------------------------- | ------------------------------------ |
+| Campaign Information | Campaign_ID, Campaign_Type, Campaign_Duration | Identify campaign characteristics    |
+| Customer Information | Customer_Segment, Audience_Type, Language     | Analyze audience behavior            |
+| Marketing Channels   | Channel_Used, Channel_Count                   | Evaluate multi-channel strategies    |
+| Funnel Metrics       | Impressions, Clicks, Leads, Conversions       | Measure customer journey performance |
+| Financial Metrics    | Revenue, Acquisition_Cost, ROI                | Evaluate marketing profitability     |
+| Engagement Metrics   | CTR, Engagement_Score, Engagement_Level       | Assess customer interaction          |
+
+
+### Data Quality
+
+- Missing values: None detected
+- Duplicate records: None detected
+- Data types validated
+- Multi-channel combinations standardized
+
+### Feature Engineering
+
+| New Feature             | Purpose                               |
+| ----------------------- | ------------------------------------- |
+| Campaign Duration Group | Compare campaign duration performance |
+| Channel Count           | Measure number of marketing channels  |
+| Engagement Level        | Categorize customer engagement        |
+| Funnel Table            | Transform funnel metrics into stage-level structure          |
+
+### Data Limitations
+
+- The dataset is synthetic and designed for analytical practice rather than representing a real company's marketing performance
+- Business interpretations should therefore be considered illustrative
+- June 2025 contains data only through 24 June 2025, making it a partial reporting period
 
 ## Analytics
 
